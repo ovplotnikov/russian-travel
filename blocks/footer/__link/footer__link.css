@@ -10,7 +10,7 @@
     padding: 0;
 }
 
-@media (max-width: 560px) {
+@media (max-width: 600px) {
     .footer__link {
         padding-bottom: 32px;
         font-size: 24px;
